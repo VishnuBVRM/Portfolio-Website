@@ -1,0 +1,6 @@
+{
+  "name": "Vishnu Vardhan Portfolio & Admin Portal",
+  "description": "Full Stack Developer and Cisco CCNA Network Engineer portfolio with secure authenticated admin dashboard and live in-place editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
